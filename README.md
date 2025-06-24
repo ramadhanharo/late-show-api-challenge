@@ -22,7 +22,7 @@ A RESTful API built with Flask + PostgreSQL to manage guest appearances on a lat
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/<your-username>/late-show-api-challenge.git
+git clone https://github.com/ramadhanharo/late-show-api-challenge.git
 cd late-show-api-challenge
 2. Install Dependencies
 bash
